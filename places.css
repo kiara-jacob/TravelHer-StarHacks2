@@ -17,7 +17,7 @@ body
 header
 {
   position: absolute;
-  top: -30px;
+  top: 10px;
   left: 0;
   width: 100%;
   padding: 50px 100px;
@@ -125,7 +125,7 @@ section img#mountains_front
 #text
 {
   position: absolute;
-  right: -350px;
+  right: -700px;
   color: #fff;
   white-space: nowrap;
   font-size: 7.5vw;
@@ -406,15 +406,6 @@ section img#mountains_front
   }
 }
 
-{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
-  scroll-behavior: smooth;
-
-}
-
 .col
 {
   font-size: 100px;
@@ -447,12 +438,11 @@ a:hover, a:active {
   justify-content: space-between;
 }
 .course-col{
-  flex-basis: 0%;
+  flex-basis: 30%;
   background: #7597de;
   border-radius: 9px;
   margin-left: 10px;
   margin-right: 10px;
-  margin-botton: 5%;
   padding: 7px 10px;
   box-sizing: border-box;
   transition: 0.5s;

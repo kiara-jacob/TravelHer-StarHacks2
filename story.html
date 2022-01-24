@@ -2,10 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
-  <!-- need to come up with name -->
   <title>Share Your Story</title>
   <link rel="stylesheet" type="text/css" href="places.css">
-  <!-- will add style css folder and file -->
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Poppins:300,400,600,700&amp;lang=en" type="text/css"/>
   
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,9 +20,9 @@
     
     <ul>
       <li><a href="index.html" >Home</a></li>
-      <li><a href="places.html">Places</a></li>
+      <li><a href="places.html">Locations</a></li>
       <li><a href="info.html">Safety Information</a></li>
-      <li><a href="rating.html">Star System</a></li>
+      <li><a href="rating.html">Rating System</a></li>
       <li><a href="emergen.html">Emergency Contacts</a></li>
       <li><a href="story.html" class="active">Share Your Story</a></li>
       
@@ -34,7 +32,7 @@
     <img src="images/stars.png" id="stars">
     <img src="images/moon.png" id="moon">
     <img src="images/mountains_behind.png" id="mountains_behind">
-    <h2 id="text">Star Ratings</h2>
+    <h2 id="text">Share Your Story</h2>
     <a href="#container" id="btn"> Submit a Travel Story</a>
 
 
@@ -51,13 +49,13 @@
     window.addEventListener('scroll', function(){
       let value = window.scrollY;
       stars.style.left= value * 0.25 + 'px';
-      moon.style.top= value * 1.05 +'px';
+      moon.style.top= value * 7 +'px';
       mountains_behind.style.top= value * 0.05 +'px';
       
-      text.style.marginRight= value * 4 +'px';
-      text.style.marginTop= value * 1.5 +'px';
-      btn.style.marginTop= value * 1.5 +'px';
-      header.style.top = value * 0.5 + 'px';
+      text.style.marginRight= value * 10 +'px';
+      text.style.marginTop= value * 0 +'px';
+      btn.style.marginTop= value * 1 +'px';
+      header.style.top = value * 0.1 + 'px';
     })
   </script>
 

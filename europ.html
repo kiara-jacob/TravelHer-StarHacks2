@@ -22,7 +22,7 @@
     
     <ul>
       <li><a href="index.html" >Home</a></li>
-      <li><a href="places.html" class="active">Places</a></li>
+      <li><a href="places.html" class="active">Locations</a></li>
       <li><a href="info.html">Safety Information</a></li>
       <li><a href="rating.html">Rating System</a></li>
       <li><a href="emergen.html">Emergency Contacts</a></li>
@@ -35,7 +35,7 @@
     <img src="images/moon.png" id="moon">
     <img src="images/mountains_behind.png" id="mountains_behind">
     <h2 id="text">EUROPE</h2>
-    <a href="#mission" id="btn"> EXPLORE</a>
+    <a href="places.html" id="btn"> BACK </a>
 
     
   </section>
@@ -49,13 +49,18 @@
         <div class= "row">
           <div class="course-col-eu">
             <h3>Reykjavik - Iceland(95) Five Stars</h3>
-            <p>Although very small, Reykjavik is the most northern capital city in the world and is home to more than half of the Icelandic population. This colourful and quirky city is packed with numerous restaurants, cafes, bars and museums and is extremely walkable, making it a perfect destination to explore by foot.</p>
+            <p>Although very small, Reykjavik is the most northern capital city in the world. This colourful and quirky city is packed with numerous restaurants, cafes, bars and museums and is extremely walkable, making it a perfect destination to explore by foot.
+
+            </p>
+            <img src="images/iceland.jpg" width="450" height="300">
           </div>
           <div class="course-col-eu">
-            <h3>New Zealand (90) FIVE STARS</h3>
+            <h3>New Zealand(90) Five Stars</h3>
             <p>One of the most peculiar bioregions inhabited by flightless birds seen nowhere else in the world such as kakapo and kiwi. </p>
             <p>
-            Also known as MIddle Earth for LOTR fans, many iconic places from Tolkien’s stories can be visited for real.</p>
+            Also known as MIddle Earth for LOTR fans, many iconic places from Tolkien’s stories can be visited for real.
+            </p>
+            <img src="images/newzealand.jpg" width="450" height="300">
           </div>
           
         </div>
@@ -77,13 +82,13 @@
     window.addEventListener('scroll', function(){
       let value = window.scrollY;
       stars.style.left= value * 0.25 + 'px';
-      moon.style.top= value * 1.05 +'px';
+      moon.style.top= value * 7 +'px';
       mountains_behind.style.top= value * 0.05 +'px';
       
-      text.style.marginRight= value * 4 +'px';
-      text.style.marginTop= value * 1.5 +'px';
-      btn.style.marginTop= value * 1.5 +'px';
-      header.style.top = value * 0.5 + 'px';
+      text.style.marginRight= value * 10 +'px';
+      text.style.marginTop= value * 0 +'px';
+      btn.style.marginTop= value * 1 +'px';
+      header.style.top = value * 0.1 + 'px';
     })
   </script>
   <footer>

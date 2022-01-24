@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
-  <!-- need to come up with name -->
+
   <title>AUSTRALIA</title>
   <link rel="stylesheet" type="text/css" href="places.css">
-  <!-- will add style css folder and file -->
+
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Poppins:300,400,600,700&amp;lang=en" type="text/css"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="index.css">
@@ -22,7 +22,7 @@
     
     <ul>
       <li><a href="index.html" >Home</a></li>
-      <li><a href="places.html" class="active">Places</a></li>
+      <li><a href="places.html" class="active">Locations</a></li>
       <li><a href="info.html">Safety Information</a></li>
       <li><a href="rating.html">Rating System</a></li>
       <li><a href="emergen.html">Emergency Contacts</a></li>
@@ -35,7 +35,7 @@
     <img src="images/moon.png" id="moon">
     <img src="images/mountains_behind.png" id="mountains_behind">
     <h2 id="text">AUSTRALIA</h2>
-    <a href="#mission" id="btn"> EXPLORE</a>
+    <a href="places.html" id="btn"> BACK </a>
 
     
   </section>
@@ -44,19 +44,20 @@
     <div class="mission" id="mission"> 
      
       <h1> &#10026;   For women, by women.   &#10026;</h1>
-      <h2>Australia(86) FIVE STARS: 
-</h2>
+      <h2>Australia(86) FIVE STARS: </h2>
         <p> The vibrant art scene and charming laid-back atmosphere, along with the cultural diversity of its inhabitants, their friendly nature, and the high quality of life here, make Australia a wonderful, welcoming country. It is also considered one of the safest countries in the world overall!</p>
         <div class= "row">
           <div class="course-col-eu">
             <h3>Sydney (low risk)</h3>
-            <p>Enjoy the sunny beaches, the stunningly beautiful harbor with the Harbour Bridge and Opera House. </p>
+            <p>Enjoy the sunny beaches, the stunningly beautiful harbor with the Harbour Bridge and Opera House. Sydney is a city alive with wildlife. If you want to experience this wondrous collection of wildlife first hand, the best place is the Botanic Gardens in the heart of the city.  </p>
+            <img src="images/sydney.jpg" width="500" height="300">
           </div>
           <div class="course-col-eu">
             <h3>Adelaide (low risk)</h3>
             <p>The capital of South Australia, Adelaide is one of the first cities to grant women the right to vote, and has significantly low sexual discrimination.
-A very diverse city, whether you want to hike to a waterfall, visit a zoo, go to the mall, or even go watch a match at the oval, Adelaide’s got it all.
-</p>
+            A very diverse city, whether you want to hike to a waterfall, visit a zoo, go to the mall, or even go watch a match at the oval, Adelaide’s got it all.
+            </p>
+            <img src="images/adelaide.jpg" width="500" height="300">
           </div>
           
         </div>
@@ -78,13 +79,13 @@ A very diverse city, whether you want to hike to a waterfall, visit a zoo, go to
     window.addEventListener('scroll', function(){
       let value = window.scrollY;
       stars.style.left= value * 0.25 + 'px';
-      moon.style.top= value * 1.05 +'px';
+      moon.style.top= value * 7 +'px';
       mountains_behind.style.top= value * 0.05 +'px';
       
-      text.style.marginRight= value * 4 +'px';
-      text.style.marginTop= value * 1.5 +'px';
-      btn.style.marginTop= value * 1.5 +'px';
-      header.style.top = value * 0.5 + 'px';
+      text.style.marginRight= value * 10 +'px';
+      text.style.marginTop= value * 0 +'px';
+      btn.style.marginTop= value * 1 +'px';
+      header.style.top = value * 0.1 + 'px';
     })
   </script>
   <footer>

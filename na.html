@@ -2,13 +2,12 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
-  <!-- need to come up with name -->
   <title>NORTH AMERICA</title>
   <link rel="stylesheet" type="text/css" href="places.css">
-  <!-- will add style css folder and file -->
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Poppins:300,400,600,700&amp;lang=en" type="text/css"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="index.css">
+  <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
  
 </head>
 <body>
@@ -22,7 +21,7 @@
     
     <ul>
       <li><a href="index.html" >Home</a></li>
-      <li><a href="places.html" class="active">Places</a></li>
+      <li><a href="places.html" class="active">Locations</a></li>
       <li><a href="info.html">Safety Information</a></li>
       <li><a href="rating.html">Rating System</a></li>
       <li><a href="emergen.html">Emergency Contacts</a></li>
@@ -35,10 +34,8 @@
     <img src="images/moon.png" id="moon">
     <img src="images/mountains_behind.png" id="mountains_behind">
     <h2 id="text">NORTH AMERICA</h2>
-    <a href="#mission" id="btn"> EXPLORE</a>
-    <!--img src="mountains_front.png" id="mountains_front" let mountains_front= document.getElementById('mountains_front')
-    mountains_front.style.top= value * 0 +'px';-->
-    <!-- placeholders---figure this out later! -->
+    <a href="places.html" id="btn"> BACK </a>
+
     
   </section>
   <!-- Julia -->
@@ -58,9 +55,9 @@
           </div>
           <div class="course-col">
             <h3>TRAIN TRIP</h3>
-            <p>In addition you can book a multi-city train through the rocky mountains and visit multiple different sites from forest and lakes to mountains to big city. There are multiple companies such as</p> 
+            <p>In addition you can book a multi-city train through the rocky mountains and visit multiple different sites from forest and lakes to mountains to big city. There are multiple companies such as 
             <a href="https://www.rockymountaineer.com/ ">the Rocky Mountaineer</a> 
-            <p>and the Western Canada Travel Train Trip at VIA Rail Canada (https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific) among others.</p>
+            and the <a href="https://www.viarail.ca/en/explore-our-destinations/trains/rockies-and-pacific"> Western Canada Travel Train Trip at VIA Rail Canada</a> among others.</p>
           </div>
           <div class="course-col">
             <h3>VANCOUVER</h3>
@@ -86,13 +83,13 @@
     window.addEventListener('scroll', function(){
       let value = window.scrollY;
       stars.style.left= value * 0.25 + 'px';
-      moon.style.top= value * 1.05 +'px';
+      moon.style.top= value * 7 +'px';
       mountains_behind.style.top= value * 0.05 +'px';
       
-      text.style.marginRight= value * 4 +'px';
-      text.style.marginTop= value * 1.5 +'px';
-      btn.style.marginTop= value * 1.5 +'px';
-      header.style.top = value * 0.5 + 'px';
+      text.style.marginRight= value * 10 +'px';
+      text.style.marginTop= value * 0 +'px';
+      btn.style.marginTop= value * 1 +'px';
+      header.style.top = value * 0.1 + 'px';
     })
   </script>
   <footer>
