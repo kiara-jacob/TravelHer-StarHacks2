@@ -26,7 +26,9 @@ StarHacks has given us a platform to come together and proudly say we built some
 
 ![logostarhacks](https://user-images.githubusercontent.com/64074709/150935628-3932600d-a9f9-4764-9156-b426ba5064f8.png)
 ![Main Page](https://user-images.githubusercontent.com/64074709/150937278-07a8a9b4-a594-49d7-bd17-bcc719188b97.png)
-![mission](https://user-images.githubusercontent.com/64074709/150937384-a67c80eb-49b2-40![Locations](https://user-images.githubusercontent.com/64074709/150937471-382f63c3-1662-4189-8bce-310a4e457![Locations- North America](https://user-images.githubusercontent.com/64074709/150937580-dfa60666-d85b-449d-9d19-61a5e0927368.png)
+![mission](https://user-images.githubusercontent.com/64074709/150937384-a67c80eb-49b2-40
+![Locations](https://user-images.githubusercontent.com/64074709/150937471-382f63c3-1662-4189-8bce-310a4e457
+![Locations- North America](https://user-images.githubusercontent.com/64074709/150937580-dfa60666-d85b-449d-9d19-61a5e0927368.png)
 4e9.png)
 c3-a74b-c1f6687d5373.png)
 ![country subtab](https://user-images.githubusercontent.com/64074709/150937532-34680501-3a02-4c9c-a3f7-bab22e47b0fc.png)
