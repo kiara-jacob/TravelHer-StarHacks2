@@ -1,4 +1,9 @@
 # TravelHer
+
+Link to live project: https://travelher.kierrarg.repl.co/
+
+Devpost submission: https://devpost.com/software/travelher-p6o8kf?ref_content=my-projects-tab&ref_feature=my_projects
+
 As young women ourselves, who love to travel, we are constantly reminded of the dangers of traveling. This has often led to fun and carefree vacations being turned into stressful trips filled with worry and fear of new dangers in new environments. Being from different parts of the world we realised the struggle is the same. Lack of helpful resources and support are the main reasons why 63% of women think about safety while travelling.
 
 TravelHer is designed to be the resource you need when travelling!
@@ -14,8 +19,6 @@ Despite being spread across 3 different timezones we managed to build and pitch 
 When we first set out to build TravelHer we had never expected to learn so much. We overcame coordinating different tasks in different timezones, lack of knowledge of CSS and JavaScript syntax and various design flaws. We have managed to build a fully functioning website that we hope is a resource to empower women all over the globe.
 
 StarHacks has given us a platform to come together and proudly say we built something but this is just the beginning for TravelHer. We hope to expand some of our existing features which include building a database of shared experiences from women all over the world and an expanded list of countries and their landmarks. With time we also want to make our site fully optimised for mobile usage. We hope to build a system that gets user input to determine the safety and location of an area. We have so many ideas that we hope to implement with time! TravelHer's journey is just beginning!
-
-Link to live project: https://travelher.kierrarg.repl.co/
 
 
 ![logo](https://user-images.githubusercontent.com/64074709/150712699-10d4a6d1-132b-48d6-875f-b1c6cbdc1a8e.png)
