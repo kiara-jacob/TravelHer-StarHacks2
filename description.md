@@ -1,6 +1,6 @@
 # TravelHer
 
-Link to live project: https://travelher.kierrarg.repl.co/
+Link to live project: https://travelher.kiarajacob.repl.co
 
 Devpost submission: https://devpost.com/software/travelher-p6o8kf?ref_content=my-projects-tab&ref_feature=my_projects
 
