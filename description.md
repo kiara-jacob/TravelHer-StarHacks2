@@ -20,10 +20,9 @@ When we first set out to build TravelHer we had never expected to learn so much.
 
 StarHacks has given us a platform to come together and proudly say we built something but this is just the beginning for TravelHer. We hope to expand some of our existing features which include building a database of shared experiences from women all over the world and an expanded list of countries and their landmarks. With time we also want to make our site fully optimised for mobile usage. We hope to build a system that gets user input to determine the safety and location of an area. We have so many ideas that we hope to implement with time! TravelHer's journey is just beginning!
 
+(January 22nd-23rd 2022)
 
 ![logo](https://user-images.githubusercontent.com/64074709/150712699-10d4a6d1-132b-48d6-875f-b1c6cbdc1a8e.png)
-![main page](https://user-images.githubusercontent.com/64074709/150712728-f62e740e-a326-44f0-a794-295261327647.png)
-![Tips Page](https://user-images.githubusercontent.com/64074709/150712776-0ea52b5e-ee02-4f29-9adc-7650682227f4.png)
-![Emergency contacts](https://user-images.githubusercontent.com/64074709/150712783-e5b938ce-5e1c-465e-83c1-0aa24348cff0.png)
-![Rating System](https://user-images.githubusercontent.com/64074709/150712795-8f6c348f-d6a1-479e-bf02-41a3a944dfef.png)
-![Share your story](https://user-images.githubusercontent.com/64074709/150712802-b27d0fd6-4ae2-4036-b19d-ea5f4a9e4ce9.png)
+![TravelHer](https://user![Our Mission](https://user-images.githubusercontent.com/64074709/150933781-e29e2429-72c2-4649-b86f-b6880c6591f8.png)
+-images.githubusercontent.com/64074709/150933593-13f04358-8bd4-4bda-93ff-3f4740a5497e.png)
+
