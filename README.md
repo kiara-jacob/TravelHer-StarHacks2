@@ -3,6 +3,11 @@ TravelHer is a website built for women by women to provide you with the support 
 
 ### [ Built for StarHacks-II (#buildingbridges) ]
 
+Website: https://travelher.kiarajacob.repl.co/
+
+Devpost link: https://devpost.com/software/travelher-p6o8kf
+
+<img src="images/logostarhacks.png" width="200">
 
 ## Inspiration
 As young women who love to travel, we are constantly reminded of the dangers of traveling alone. This has often led to fun and carefree vacations being turned into stressful trips, filled with worry and fear of new dangers in new environments. Being from different parts of the world we realised the struggle is always the same. 
