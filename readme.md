@@ -1,6 +1,6 @@
 # TravelHer
 
-### -  Built for StarHacks-II (#buildingbridges)
+## Built for StarHacks-II (#buildingbridges)
 
 <img src="images/logostarhacks.png" width="200">
 
